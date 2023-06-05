@@ -16,8 +16,8 @@ def InsertDataTrain():
     """
 
     mn = con.connect(host="localhost",
-                     user="root",
-                     password="mamta8595",
+                     user="xyz",
+                     password="xyz",
                      database="railway")
 
     cur = mn.cursor()
