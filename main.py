@@ -43,6 +43,7 @@ while True:
         Other.Menu()
     elif ans == "8":
         Other.ClearScreen()
+    elif ans == "9"
         Other.About()
         while True:
             ask = input("Do you want to Display Menu(Y/N): ")
@@ -53,7 +54,7 @@ while True:
                 break
             else:
                 print("Please Enter either Y (Yes) or N (No)!")
-    elif ans == "9":
+    elif ans == "10":
         print("Closing all Connections..")
         sleep(0.5)
         print("Thank You!")
