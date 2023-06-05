@@ -23,8 +23,8 @@ To use the Railway Booking System module, follow these steps:
 ### Available Functions
 The Railway Booking System module provides the following functions:
 
-AvailableTrains(): Displays a list of available trains based on the user's source and destination stations.
-CheckFare(): Calculates the fare for a train journey based on the distance between the source and destination stations.
-ShowBookings(): Shows the bookings made by a user.
-BookTrain(): Allows a user to book a train ticket.
-CancelBooking(): Enables a user to cancel a booked ticket.
+1. AvailableTrains(): Displays a list of available trains based on the user's source and destination stations.
+2. CheckFare(): Calculates the fare for a train journey based on the distance between the source and destination stations.
+3. ShowBookings(): Shows the bookings made by a user.
+4. BookTrain(): Allows a user to book a train ticket.
+5. CancelBooking(): Enables a user to cancel a booked ticket.
