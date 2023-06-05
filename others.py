@@ -48,7 +48,8 @@ def Menu(answer="Yes"):
         print("5. Show Available Trains")
         print("6. Clear Screen")
         print("7. Menu")
-        print("8. About")
-        print("9. Exit")
+        print("8. Clear")
+        print("9. About")
+        print("10. Exit")
     else:
         pass
